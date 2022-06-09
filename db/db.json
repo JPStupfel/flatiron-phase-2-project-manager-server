@@ -1,6 +1,5 @@
 {
   "Users": [
-
     {
       "id": 1,
       "name": "Woody",
@@ -12,19 +11,62 @@
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
       "Projects Created": 14
-    }],
-    "Projects": [
-      {
-        "id": 1,
-        "name": "Colinize Marz",
-        "author": "Buzz Lightyear",
-        "status": "on hold"
-      },
-      {
-        "id": 2,
-        "name": "Cure Boredom",
-        "author": "Woody",
-        "status": "Nearly Done"
-      }
+    },
+    {
+      "name": "Johnny",
+      "image": "https://www.pinkvilla.com/imageresize/johnny_depp_amber_heard_2.jpeg?width=752&format=webp&t=pvorg",
+      "Projects Created": 0,
+      "id": 3
+    },
+    {
+      "name": "Grimes",
+      "image": "https://media.vanityfair.com/photos/603e71d829e5b22a654c9679/master/pass/1133728517",
+      "Projects Created": 0,
+      "id": 4
+    }
+  ],
+  "Projects": [
+    {
+      "id": 1,
+      "name": "Colonize Neptune",
+      "author": "Buzz Lightyear",
+      "status": "Ready to Start"
+    },
+    {
+      "id": 2,
+      "name": "Cure Boredom",
+      "author": "Johnny",
+      "status": "Ready to Start"
+    },
+    {
+      "name": "Pat the Cat",
+      "author": "Buzz Lightyear",
+      "status": "Ready to Start",
+      "id": 3
+    },
+    {
+      "name": "Go fish",
+      "author": "Woody",
+      "status": "Ready to Start",
+      "id": 4
+    },
+    {
+      "name": "Draw cirlce",
+      "author": "Woody",
+      "status": "On Hold",
+      "id": 5
+    },
+    {
+      "name": "Play the fiddle",
+      "author": "Buzz Lightyear",
+      "status": "Ready to Start",
+      "id": 6
+    },
+    {
+      "name": "Let's go surfing now",
+      "author": "Buzz Lightyear",
+      "status": "On Hold",
+      "id": 7
+    }
   ]
 }
