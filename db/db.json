@@ -3,37 +3,31 @@
     {
       "id": 1,
       "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "Projects Created": 0
+      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "Projects Created": 3
+      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png"
     },
     {
       "name": "Johnny",
       "image": "https://www.pinkvilla.com/imageresize/johnny_depp_amber_heard_2.jpeg?width=752&format=webp&t=pvorg",
-      "Projects Created": 1,
       "id": 3
     },
     {
       "name": "Grimes",
       "image": "https://media.vanityfair.com/photos/603e71d829e5b22a654c9679/master/pass/1133728517",
-      "Projects Created": 1,
       "id": 4
     },
     {
       "name": "Elon",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1200px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
-      "Projects Created": 1,
       "id": 5
     },
     {
       "name": "Jack White",
       "image": "https://media.pitchfork.com/photos/616d9395b645e845dbc8ef90/2:1/w_2560%2Cc_limit/Jack-White.jpg",
-      "Projects Created": 0,
       "id": 6
     }
   ],
@@ -42,37 +36,65 @@
       "id": 2,
       "name": "Cure Boredom",
       "author": "Johnny",
-      "status": "Ready to Start"
+      "status": "Completed",
+      "date": "Fri Jun 10 2022 11:04:49 GMT-0500 (Central Daylight Time)",
+      "statusChangeOn": "6/10/2022, 12:19:07 PM"
     },
     {
       "name": "Pat the Cat",
-      "author": "Buzz Lightyear",
-      "status": "Ready to Start",
+      "author": "Woody",
+      "status": "On Hold",
+      "date": "Fri Jun 10 2022 11:04:49 GMT-0500 (Central Daylight Time)",
+      "statusChangeOn": "6/10/2022",
       "id": 3
     },
     {
       "name": "Play the fiddle",
-      "author": "Buzz Lightyear",
-      "status": "Ready to Start",
+      "author": "Elon",
+      "status": "Completed",
+      "date": "Fri Jun 10 2022 11:04:49 GMT-0500 (Central Daylight Time)",
+      "statusChangeOn": "6/10/2022, 1:12:49 PM",
       "id": 6
     },
     {
       "name": "Let's go surfing now",
       "author": "Buzz Lightyear",
       "status": "On Hold",
+      "date": "Fri Jun 10 2022 11:04:49 GMT-0500 (Central Daylight Time)",
+      "statusChangeOn": "",
       "id": 7
     },
     {
       "name": "Peak a boo",
-      "author": "Elon",
+      "author": "Buzz Lightyear",
       "status": "On Hold",
+      "date": "Fri Jun 10 2022 11:04:49 GMT-0500 (Central Daylight Time)",
+      "statusChangeOn": "",
       "id": 8
     },
     {
       "name": "Colonize Mars Volta",
       "author": "Grimes",
       "status": "Ready to Start",
+      "date": "Fri Jun 10 2022 11:04:49 GMT-0500 (Central Daylight Time)",
+      "statusChangeOn": "",
       "id": 9
+    },
+    {
+      "name": "Testing the gadget",
+      "author": "Johnny",
+      "status": "Working On It",
+      "date": "Fri Jun 10 2022 11:04:49 GMT-0500 (Central Daylight Time)",
+      "statusChangeOn": "",
+      "id": 10
+    },
+    {
+      "name": "Target Sports",
+      "author": "Jack White",
+      "status": "On Hold",
+      "date": "2022-06-10T16:26:58.034Z",
+      "statusChangeOn": "",
+      "id": 11
     }
   ]
 }
