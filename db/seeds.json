@@ -3,32 +3,43 @@
     {
       "id": 1,
       "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
+      "password": "123"
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png"
+      "name": "Buzz-Lightyear",
+      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
+      "password": "123"
+
     },
     {
       "name": "Johnny",
       "image": "https://www.pinkvilla.com/imageresize/johnny_depp_amber_heard_2.jpeg?width=752&format=webp&t=pvorg",
-      "id": 3
+      "id": 3,
+      "password": "123"
+
     },
     {
       "name": "Grimes",
       "image": "https://media.vanityfair.com/photos/603e71d829e5b22a654c9679/master/pass/1133728517",
-      "id": 4
+      "id": 4,
+      "password": "123"
+
     },
     {
       "name": "Elon",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1200px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
-      "id": 5
+      "id": 5,
+      "password": "123"
+
     },
     {
-      "name": "Jack White",
+      "name": "Jack-White",
       "image": "https://media.pitchfork.com/photos/616d9395b645e845dbc8ef90/2:1/w_2560%2Cc_limit/Jack-White.jpg",
-      "id": 6
+      "id": 6,
+      "password": "123"
+
     }
   ],
   "Projects": [
